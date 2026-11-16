@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Immersive Bag Skin
+## IconTexture: Interface\AddOns\ImmersiveBagSkin\Media\Icon
+## Notes: Stock WoW Forever backpack styling for BetterBags Next.
+## Version: 0.1.0
+## Dependencies: BetterBags
+## SavedVariables: ImmersiveBagSkinDB
+
+BetterBagsProfile.lua
+ForeverBackpack.lua
