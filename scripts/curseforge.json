@@ -1,0 +1,7 @@
+{
+  "repository": "RozziP/immersive-bag-skin",
+  "assetPrefix": "ImmersiveBagSkin",
+  "projectId": 1809280,
+  "addonFolder": "ImmersiveBagSkin",
+  "requiredDependency": "better-bags"
+}
