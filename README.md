@@ -1,5 +1,7 @@
 # Immersive Bag Skin
 
+<p><img src="branding/icon.png" width="96" height="96" alt="Immersive Bag Skin icon"></p>
+
 Give BetterBags Next the look of WoW Forever's stock backpack. The Forever Backpack theme brings back the metal frame, round bag portrait, gold headings, search and sort controls, and coin box.
 
 ## Install
